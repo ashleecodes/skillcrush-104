@@ -3644,3 +3644,13 @@ marquisbrown-advice {
 }
 
 /* End Jeanne's Styles */
+
+/* Ashlee's Advice */
+.ashlee-advice {
+    font-size: 18px;
+    color:#3c3c3c;
+    text-align: center;
+}
+.ashlee-advice p {
+    font-family:sans-serif;
+}
